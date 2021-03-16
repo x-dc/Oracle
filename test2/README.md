@@ -104,4 +104,5 @@ Oracle有一个开发者角色resource，可以创建表、过程、触发器等
 
 + autoextensible是显示表空间中的数据文件是否自动增加。
 + MAX_MB是指数据文件的最大容量。
+
 ![](4.png)
